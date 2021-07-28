@@ -12,6 +12,7 @@ public class UserApp {
 		ProductService ps = new ProductService();
 		String str = ps.addProduct(p);
 		System.out.println(str);
+		System.out.println("Second commit");
 		
 		
 		
